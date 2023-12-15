@@ -22,3 +22,16 @@ Endpoint ini digunakan untuk mengakses data yang ada di dalam API register-wilay
 | HTTP Method | Path | Tipe Format |
 | --- | --------------------- | --- |
 | GET | gateway.local.gd:8080/InteroperabilitasSemantikDataRepositoryPemasyarakatan/register-wilayah/1.0 | JSON |
+
+##### Header Structure  <br />
+
+| Key | Value |
+| --- | --- |
+| Host | 192.168.100.33:8000 |
+| Date | currentDateTime |
+| Connection |  |
+| X-Powered-By |  |
+| Cache-Control |  |
+| Content-Type | application/json |
+| X-RateLimit-Limit |  |
+| Access-Control-Allow-Origin | * |
