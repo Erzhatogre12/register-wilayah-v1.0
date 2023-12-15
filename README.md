@@ -11,3 +11,14 @@
 
 ##### Gambaran API <br />
 API ini merupakan data dari wilayah-wilayah rutan, yang mana ada juga kategorisasi rutan dari rutan untuk perempuan, dan pria.
+
+##### Endpoint <br />
+
+#### API Statement
+
+##### General Information <br />
+Endpoint ini digunakan untuk mengakses data yang ada di dalam API register-wilayah
+
+| HTTP Method | Path | Tipe Format |
+| --- | --------------------- | --- |
+| GET | gateway.local.gd:8080/InteroperabilitasSemantikDataRepositoryPemasyarakatan/register-wilayah/1.0 | JSON |
